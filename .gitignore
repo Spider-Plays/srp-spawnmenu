@@ -1,0 +1,8 @@
+node_modules/
+web/node_modules/
+
+# Spawns saved by the in-game editor (server-specific)
+data/spawns.json
+
+.vscode/
+*.log
